@@ -1,0 +1,9 @@
+register
+login (token)
+
+at login time set token in cookie expire time 1 min
+
+auth
+token get from barear else from cookie else thorw error
+
+profile get

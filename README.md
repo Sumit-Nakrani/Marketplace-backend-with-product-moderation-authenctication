@@ -1,4 +1,3 @@
-![Preview](preview.png)
 # 🛒 Marketplace Backend with Product Moderation & Authentication
 
 A robust REST API backend for a marketplace application built with **Node.js**, **Express**, and **MongoDB**. Features include user authentication, product management with moderation, image uploads, SMS notifications, and input validation.
